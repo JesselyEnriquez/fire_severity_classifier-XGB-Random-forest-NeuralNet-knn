@@ -61,9 +61,11 @@ Important notes about the app:
 ---
 
 ## Conclusion 
+
 The final model is able to predict fire class far more effectively than the baseline. The factors that seem to have the most impact on fire class are  location, time, and weather conditions (temperature, drought conditions, etc). <br><br>
 Forest services, state and local governments, and concerned citizens can use our model and tool to assess whether they are at risk for a severe fire using our streamlit app. They can then use the results to prepare knowing that they could be dealing with a major fire.
 <br>
+
 ---
 
 ## Future Work
