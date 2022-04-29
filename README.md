@@ -41,7 +41,7 @@ Ultimately after many iterations the model that performed best based on the F1 S
 
 ---
 ## Streamlit App 
-Based on the best performing model feature importances we created a Streamlit App accesible to the public that is essentially a form that takes in the most valuable and reasonable features weighed most valuable in the XGBoost model. This was intentional because we wanted the users to power to accurately to predict the fire class intensity. The app can be accessed [here](https://share.streamlit.io/jesselyenriquez/fire_severity-xgboost-neural_net-randomforest-/streamlit.py) and it is hosted on a seperate github [here](https://github.com/JesselyEnriquez/Fire_Severity-xgboost-neural_net-randomforest-) with a description of how to run locally here. 
+Based on the best performing model feature importances we created a Streamlit App accesible to the public that is essentially a form that takes in the most valuable and reasonable features weighed most valuable in the XGBoost model. This was intentional because we wanted the users to power to accurately to predict the fire class intensity. The app can be accessed [here](https://share.streamlit.io/jesselyenriquez/fire_severity-xgboost-neural_net-randomforest-/streamlit.py) and it is hosted on a seperate github [here](https://github.com/JesselyEnriquez/Fire_Severity-xgboost-neural_net-randomforest-).
 
 # ![](./Viz/readme_viz/streamlit_form.png) 
 *Figure 6: Form display for Streamlit App.*
